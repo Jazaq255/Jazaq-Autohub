@@ -1,8 +1,9 @@
 {
   "require": {
-    "php": "^8.0"
+    "php": "^8.2"
   },
   "scripts": {
     "start": "php -S 0.0.0.0:8000 -t public"
   }
 }
+
