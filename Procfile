@@ -1,1 +1,3 @@
-web: vendor/bin/heroku-php-apache2 -i /app/config.php ./
+web: php -S 0.0.0.0:$PORT
+
+
